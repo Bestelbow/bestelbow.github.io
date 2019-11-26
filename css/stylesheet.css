@@ -158,6 +158,7 @@ footer .wrap {
 footer .ftblock {
 	border: 1px solid #ddd;
 	display: inline-block;
+	vertical-align: top;
 	background: url('../img/icon.png') no-repeat;
 	background-position: -1px -1px;
 	width: 90vw;
